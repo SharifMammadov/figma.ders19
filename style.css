@@ -262,16 +262,6 @@ body {
 
 
 
-.formatZanyatiya p {
-    width: 667px;
-    height: 93px;
-    padding-top: 178px;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 55px;
-    line-height: 101.38%;
-}
 
 .section4 {
     padding-left: 0px;
@@ -1205,5 +1195,68 @@ font-family: 'Roboto';
         font-weight: 400;
         font-size: 14px;
         line-height: 150%;
+    }
+}
+@media (max-width: 375px) {
+    .first {
+        height: 550px;
+    }
+    .maintext {
+        display: block;
+        height: 400px;
+    }
+    .text1h3 {
+        width: 69.9px;
+height: 18.17px;
+left: 35px;
+top: 16.66px;
+padding-bottom: 1px;
+
+font-family: 'Roboto';
+    }
+    .text1p1 {
+        width: 180px;
+height: 48px;
+left: 35px;
+padding-bottom: 29px;
+font-family: 'Roboto';
+    }
+    .text2h3 {
+        width: 99.72px;
+height: 18.17px;
+left: 35.38px;
+padding-top: 15px;
+padding-bottom: 10px;
+font-family: 'Roboto';
+    }
+    .text2p2 {
+        width: 165px;
+height: 51px;
+left: 35px;
+padding-bottom: 38px;
+font-family: 'Roboto';
+    }
+    .text3h3 {
+        width: 69.9px;
+height: 18.17px;
+left: 36px;
+top: 19px;
+
+font-family: 'Roboto';
+    }
+    .text3p3{
+    
+        width: 159px;
+height: 31px;
+left: 36px;
+
+font-family: 'Roboto';
+    }
+    .list {
+        width: 299px;
+height: 174px;
+left: 44px;
+
+font-family: 'Roboto';
     }
 }
