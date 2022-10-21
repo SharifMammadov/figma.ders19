@@ -360,6 +360,77 @@ body {
     font-size: 24px;
     line-height: 150%;
 }
+h1{
+    width: 667px;
+    height: 93;
+    font-family: 'Roboto Slab';
+}
+.maintext{
+    display: flex;
+}
+
+.text1h3{
+    width: 150px;
+height: 39px;
+left: 122px;
+top: 2182px;
+
+font-family: 'Roboto';
+    color: #1E4681;
+    
+}
+.text1p1{
+    width: 223px;
+height: 39px;
+left: 122px;
+top: 2222px;
+
+font-family: 'Roboto';
+}
+.text2h3{
+    
+    color: #1E4681;
+    width: 214px;
+height: 39px;
+left: 467px;
+top: 2182px;
+
+font-family: 'Roboto';}
+.text2p2{
+    width: 271px;
+height: 109px;
+left: 467px;
+top: 2222px;
+
+font-family: 'Roboto';
+
+}
+.text3h3{
+    width: 150px;
+height: 39px;
+left: 851px;
+top: 2182px;
+
+font-family: 'Roboto';
+    color: #1E4681;
+    
+}
+.text3p3{
+    width: 245px;
+height: 39px;
+left: 851px;
+top: 2222px;
+
+font-family: 'Roboto';
+}
+.list{
+    width: 662px;
+height: 374px;
+left: 138px;
+top: 2624px;
+
+font-family: 'Roboto';
+}
 
 @media (max-width: 834px) {
     body {
